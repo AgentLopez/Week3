@@ -1,0 +1,93 @@
+.total {
+    width: 928px;
+    height: 600px;
+    background-color: black;
+    display: table;
+}
+.whole {
+    width: 888px;
+    height: 550px;
+    background-color: black;
+    display: table;
+    border-width: 20px 20px 0 20px;
+    border-color: mediumseagreen;
+    border-style: solid;
+}
+.score {
+    color: mediumseagreen;
+    font-size: 30px;
+}
+}
+.row {
+    display: table;
+}
+
+.blackbox{
+    background-color:black;
+    display: table-cell;
+    height: 30px;
+    width: 70px;
+    border: solid 2px black;
+}
+.redbox {
+    background-color: crimson;
+    display: table-cell;
+    height: 30px;
+    width: 70px;
+    border: solid 2px black;
+}
+.whitebox {
+    background-color: white;
+    display: table-cell;
+    height: 10px;
+    width: 10px;
+    border: solid 2px black;
+}
+.yellowbox {
+    background-color: yellow;
+    display: table-cell;
+    height: 30px;
+    width: 70px;
+    border: solid 2px black;
+}
+.bluebox {
+    background-color:blue;
+    display: table-cell;
+    height: 30px;
+    width: 70px;
+    border: solid 2px black;
+}
+.greenbox {
+    background-color:green;
+    display: table-cell;
+    height: 30px;
+    width: 70px;
+    border: solid 2px black;
+}
+
+.barback {
+    background-color:black;
+    display: table-cell;
+    height: 30px;
+    width: 140px;
+    border: solid 2px black;
+}
+.greenbar {
+    background-color: mediumseagreen;
+    display: table-cell;
+    height: 10px;
+    width: 140px;
+    border: solid 2px black;
+}
+
+
+p {
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.two {
+    color: cornflowerblue;
+    font-size: 24px;
+    font-family: monospace;
+}
